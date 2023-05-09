@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Arif Mohammed</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 - 📫 How to reach me **mohammedarif1612@gmail.com**
 
