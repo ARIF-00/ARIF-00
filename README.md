@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ARIF-00/ARIF-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **mohammedarif1612@gmail.com**
 
-- 📄 Know about my technical expertise [https://drive.google.com/file/d/1w7l8fQ9iwFZwJy4dMaTZDDglV1vTxjP_/view?usp=sharing](https://drive.google.com/file/d/1w7l8fQ9iwFZwJy4dMaTZDDglV1vTxjP_/view?usp=sharing)
+<!-- - 📄 Know about my technical expertise [https://drive.google.com/file/d/1w7l8fQ9iwFZwJy4dMaTZDDglV1vTxjP_/view?usp=sharing](https://drive.google.com/file/d/1w7l8fQ9iwFZwJy4dMaTZDDglV1vTxjP_/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
